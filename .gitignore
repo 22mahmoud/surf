@@ -1,0 +1,7 @@
+*.o
+surf
+*.bak
+*.rej
+*.orig
+*.so
+
